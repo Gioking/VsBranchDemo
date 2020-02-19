@@ -22,5 +22,11 @@ namespace VsBranchDemo
         {
             return "Test surname";
         }
+
+        static string GetAge() 
+        {
+            return "34";
+        }
+
     }
 }
