@@ -10,12 +10,17 @@ namespace VsBranchDemo
     {
         static void Main(string[] args)
         {
-            
+
         }
 
-        static string GetName() 
+        static string GetName()
         {
             return "Test name";
+        }
+
+        static string GetSurname()
+        {
+            return "Test surname";
         }
     }
 }
